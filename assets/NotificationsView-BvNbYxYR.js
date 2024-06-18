@@ -1,1 +1,0 @@
-import{_ as o}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{o as t,c as e,a as s}from"./index-DXD8wtHT.js";const c={},n={class:"w-full"},a=s("h1",null,"Notifications",-1),i=[a];function _(r,f){return t(),e("div",n,i)}const m=o(c,[["render",_]]);export{m as default};

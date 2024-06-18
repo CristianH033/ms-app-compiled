@@ -1,1 +1,0 @@
-import{d as s,r,G as l,o as i,c,a,t}from"./index-DXD8wtHT.js";const u=a("h2",null,"Drawing View",-1),v=s({__name:"DrawView",setup(d){const e=r();return l(()=>{e.value=void 0}),(p,_)=>{var n,o;return i(),c("div",null,[u,a("div",null,[a("span",null,t((n=e.value)==null?void 0:n.name)+" - "+t((o=e.value)==null?void 0:o.description),1)])])}}});export{v as default};
